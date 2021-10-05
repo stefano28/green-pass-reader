@@ -1,6 +1,5 @@
 # Green pass reading
 Are you curios about the content of EU Digital Covid Certificate?
-```
 
 ## Usage
 
