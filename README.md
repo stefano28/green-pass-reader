@@ -1,7 +1,7 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/stefano28/green-pass-reader/master/gpass-icon.png"></p>
 
 # Green pass reader
-Are you curios about the content of EU Digital Covid Certificate?
+Are you curious about the content of EU Digital Covid Certificate?
 
 ## Usage
 
